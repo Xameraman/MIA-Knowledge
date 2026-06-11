@@ -31,24 +31,24 @@ PROBLEM: Download speed is very slow.
 SOLUTION: You may have reached the transfer quota which triggers slower speeds. Wait 6 hours or switch networks. Peak internet congestion can also slow MEGA down.
 
 PROBLEM: Link not found or file removed.
-SOLUTION: The sharer may have deleted the file. Contact them for a new link. Ask in the MIA Discord if someone has an alternative.
+SOLUTION: The sharer may have deleted the file. Contact them for a new link. Ask in the NOVA Discord if someone has an alternative.
 
 IMPORTANT WARNINGS
 
-路 Never download third party MEGA downloader tools that promise faster speeds or bypass quotas. These are often malware.
-路 MEGA has no ads so any pop up or banner you see is not from MEGA. Close it immediately.
-路 Use the official MEGA desktop app or mobile app for files larger than 500 MB. Browsers have limits.
-路 MEGA's encryption means your browser uses memory to decrypt. On older devices large files may fail. Use the app instead.
-路 Always check the file extension after downloading. MEGA scans files for malware but you should still verify.
+· Never download third party MEGA downloader tools that promise faster speeds or bypass quotas. These are often malware.
+· MEGA has no ads so any pop up or banner you see is not from MEGA. Close it immediately.
+· Use the official MEGA desktop app or mobile app for files larger than 500 MB. Browsers have limits.
+· MEGA's encryption means your browser uses memory to decrypt. On older devices large files may fail. Use the app instead.
+· Always check the file extension after downloading. MEGA scans files for malware but you should still verify.
 
-MIA NOTES
+NOVA NOTES
 
-MIA shares MEGA links regularly because of the clean interface and lack of ads. MIA pre verifies all MEGA links before sharing. MIA checks files for safety and correct format. When uploading to MIA, you can use direct MEGA links. MEGA is a preferred host in MIA because there are no ad walls or deceptive buttons. Always credit the original creator when sharing in MIA.
+NOVA shares MEGA links regularly because of the clean interface and lack of ads. NOVA pre-verifies all MEGA links before sharing. NOVA checks files for safety and correct format. When uploading to NOVA, you can use direct MEGA links. MEGA is a preferred host in NOVA because there are no ad walls or deceptive buttons. Always credit the original creator when sharing in NOVA.
 
-MIA DISCORD
+NOVA DISCORD
 
-If you need more help join the MIA Discord server.
-Invite link: https://discord.gg/tS5WmGEyxN
+If you need more help join the NOVA Discord server.
+Invite: https://discord.gg/ThgxvPtUjZ
 Owner: Xameraman5022
-MIA focuses on direct downloads with no ad links.
-Always credit the original creator when sharing in MIA.
+NOVA focuses on direct downloads with no ad links.
+Always credit the original creator when sharing in NOVA.
