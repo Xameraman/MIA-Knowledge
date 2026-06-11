@@ -1,6 +1,6 @@
 WHAT IS URLSPAY
 
-Urlspay is a free URL shortener that pays creators per click. When you click a Urlspay link you must complete unlock rounds before reaching the final file. Each round has a timer, scrolling, and verification. Urlspay is similar to Linkvertise, Adfly, and Shorte.st. Urlspay has a low trust score of 47 out of 100 on Scamadviser. The domain was registered in July 2024. Many users report not receiving payouts. MIA never shares Urlspay links. MIA only uses direct download links with no ad walls.
+Urlspay is a free URL shortener that pays creators per click. When you click a Urlspay link you must complete unlock rounds before reaching the final file. Each round has a timer, scrolling, and verification. Urlspay is similar to Linkvertise, Adfly, and Shorte.st. Urlspay has a low trust score of 47 out of 100 on Scamadviser. The domain was registered in July 2024. Many users report not receiving payouts. NOVA never shares Urlspay links. NOVA only uses direct download links with no ad walls.
 
 HOW TO UNLOCK A URLSPAY LINK
 
@@ -36,22 +36,22 @@ SOLUTION: Never install anything from link shortener pages. Close the tab. These
 
 IMPORTANT WARNINGS
 
-路 Never pay for any upgrade or premium service on Urlspay. It is a known scam risk.
-路 Never enter personal information, credit card details, or phone numbers.
-路 Never install browser extensions, apps, or software from Urlspay pages.
-路 Never click on banner ads or pop ups. Close unexpected tabs immediately.
-路 Ad blockers can break the unlock process. Disable them temporarily then re enable after.
-路 Urlspay has cryptocurrency services flagged as high risk. Avoid any crypto prompts.
-路 Use Chrome or Safari for best compatibility. In app browsers cause failures.
+· Never pay for any upgrade or premium service on Urlspay. It is a known scam risk.
+· Never enter personal information, credit card details, or phone numbers.
+· Never install browser extensions, apps, or software from Urlspay pages.
+· Never click on banner ads or pop ups. Close unexpected tabs immediately.
+· Ad blockers can break the unlock process. Disable them temporarily then re enable after.
+· Urlspay has cryptocurrency services flagged as high risk. Avoid any crypto prompts.
+· Use Chrome or Safari for best compatibility. In app browsers cause failures.
 
-MIA NOTES
+NOVA NOTES
 
-MIA never shares Urlspay links. MIA policy requires direct download links only. No ad walls, no link shorteners, no paid redirect services. If you found a Urlspay link through MIA, report it immediately. MIA provides direct MediaFire, Google Drive, MEGA, or Proton Drive links instead. If a creator only provides a Urlspay link, this guide helps you complete it safely. But always request a direct link when possible.
+NOVA never shares Urlspay links. NOVA policy requires direct download links only. No ad walls, no link shorteners, no paid redirect services. If you found a Urlspay link through NOVA, report it immediately using /nova-report. NOVA provides direct MediaFire, Google Drive, MEGA, or Proton Drive links instead. If a creator only provides a Urlspay link, this guide helps you complete it safely. But always request a direct link when possible.
 
-MIA DISCORD
+NOVA DISCORD
 
-If you need more help join the MIA Discord server.
-Invite link: https://discord.gg/tS5WmGEyxN
+If you need more help join the NOVA Discord server.
+Invite: https://discord.gg/ThgxvPtUjZ
 Owner: Xameraman5022
-MIA focuses on direct downloads with no ad links.
-Always credit the original creator when sharing in MIA.
+NOVA focuses on direct downloads with no ad links.
+Always credit the original creator when sharing in NOVA.
