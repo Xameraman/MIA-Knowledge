@@ -1,74 +1,95 @@
-WHAT IS MIA
+WHAT IS NOVA
 
-MIA stands for Minecraft Items Accelerated. MIA is a community driven Discord server and network of guide websites for Minecraft Bedrock content. MIA was founded and is owned by Xameraman5022. MIA provides direct download links for addons, texture packs, maps, mods and other Minecraft content. MIA never uses Linkvertise or ad links. All MIA files are manually checked for quality and safety. MIA always credits the original creator of every pack. MIA has a Discord server, 10 guide websites, a YouTube channel, and an AI assistant on every guide page. The MIA Discord server has approximately 179 members and new content is shared daily. MIA is also listed on Disboard for public discovery.
+NOVA stands for Nexus Of Verified Assets. NOVA is a community‑driven Discord server and network of guide websites built around fast, verified, direct downloads for Minecraft Bedrock Edition content. NOVA was founded and is owned by Xameraman5022. Every file shared in NOVA goes through a structured system — categories are organized, credits are required, links are verified direct downloads, and no ad links or shorteners are ever allowed. NOVA always credits the original creator of every pack and respects creator requests immediately. NOVA has a Discord server, 12 official guide websites, an online library at nova‑library.pages.dev, the ARIA AI helper bot, a YouTube channel, and a GitHub‑powered database. The NOVA Discord server has approximately 179 members and new content is shared daily. NOVA is also listed on Disboard for public discovery.
 
-HOW TO JOIN AND USE MIA
+HOW TO JOIN AND USE NOVA
 
-1. Join the MIA Discord server using the permanent invite link: https://discord.gg/tS5WmGEyxN
-2. Once in the server, read the rules channel first. MIA uses Wick bot for moderation. English is the server language.
+1. Join the NOVA Discord server using the permanent invite link: https://discord.gg/ThgxvPtUjZ
+2. Once in the server, read the rules channel first. NOVA uses Wick bot for moderation. English is the server language.
 3. Get the Key Access role to unlock most channels. This is the verification role.
-4. Browse the organized channels by category: PvP, Utility, Furniture, Horror, Anime, Shader, Structure, Weapon, Bosses, Vehicle, Visual, Survival, Client, GUI and UI, Adventure, Minigame, Food, FPS Boost, Environment, Addon, Alternative, World Items.
-5. To download content, click the direct links shared in each channel. Links go to file hosts like MediaFire, MEGA, Google Drive or Proton Drive. There are no ad links or Linkvertise wrappers.
-6. If you need help with a download, visit the MIA guides hub at https://xameraman.github.io/All-Mia-Guides/ and pick the guide for the file host you are using. There are guides for MCPEDL, MediaFire, MEGA, Mirrored.to, Modrinth, CurseForge, Proton Drive, Linkvertise, Sub2Unlock, Urlspay and a general Java and Bedrock Import Guide.
-7. If you are a creator uploading to MIA, use direct links only. Use .mcpack or .mcaddon for Bedrock content. Use .jar or .zip for Java content. Always credit the original creator. Images are mandatory for submissions.
+4. Browse the 22 organized content channels: PvP, Utility, Furniture, Horror, Anime, Shader, Structure, Weapon, Bosses, Vehicle, Visual, Survival, Client, GUI & UI, Adventure, Minigame, Food, Environment, Addon, World, Animation, Skins.
+5. To download content, click the direct links shared in each channel. Links go to trusted file hosts like MediaFire, MEGA, Google Drive or Proton Drive. There are never any ad links or Linkvertise wrappers in NOVA.
+6. If you need help with a download, visit the NOVA guides hub at https://xameraman.github.io/all-nova-guides/ and pick the guide for the file host you are using. NOVA has 12 guides covering: Java & Bedrock Import, MCPEDL, MediaFire, Mirror, CurseForge, Modrinth, MEGA, Linkvertise, Proton Drive, Sub2Unlock, Urlspay and the All Guides hub.
+7. If you are a creator uploading to NOVA, use direct links only. For Bedrock content use .mcpack or .mcaddon files. For Java content use .jar or .zip files. Always credit the original creator. Images are mandatory for all submissions.
 
-HOW MIA UPLOADS WORK
+HOW NOVA UPLOADS WORK
 
-Packmakers use the /upload command with fields: name, file-link, category, credits, support-link, archive, and photo. MIA Items Sharers use the /announce-items command with fields: name, file-link, credits, role-ping, description, and optional temp-archive via filego.io only. All uploads must use direct download links. No Linkvertise, no Urlspay, no Sub2Unlock wrappers. Every upload must credit the original creator. Images are mandatory.
+Packmakers who create their own content use the **/share-with-nova** command. It requires name, a direct file link, category, credits, support link, an archive preference (YES, NO, IDK, or a personal permanent link — filego.io is **never** used for archives), and a preview photo. The submission is reviewed by staff, and if approved the packmaker gets the Verified Packmaker role and the pack is featured by an Experienced NOVA Sharer using **/nova-feature**.
 
-MIA GUIDE WEBSITES
+NOVA Items Sharers share outside creator content using **/nova-share**. This command takes the pack name, a direct download link, original creator credit, a short description, a preview image link, the correct category, and an optional support link. The bot sends a formatted embed with a 🚀 Get It Now button and, if a valid support link is provided, a 💝 Support The Creator button.
 
-MIA has 10 guide sites all hosted on GitHub Pages. Every guide site has the MIA AI assistant embedded as a floating chat button. The guides hub is at https://xameraman.github.io/All-Mia-Guides/. Individual guides cover: Java and Bedrock Import, MCPEDL, Mirrored.to, MediaFire, Sub2Unlock, Modrinth, CurseForge, MEGA, Linkvertise, and Proton Drive.
+Experienced NOVA Sharers feature verified packmaker submissions with **/nova-feature**. This command adds a permanent archive link (never filego.io) and can produce up to three buttons: 🚀 Get It Now, 🌌 Temp Mirror, and 💝 Support The Creator.
 
-MIA SOCIAL AND COMMUNITY LINKS
+After any announce command, the announcer must publish both the bot text message and a separate preview photo in the channel, in that order, to the connected server.
 
-MIA Discord: https://discord.gg/tS5WmGEyxN
-MIA YouTube: youtube.com/@xameraman5022
-MIA Bio Page: https://xameraman.github.io/Official-Bio/
-MIA Guides Hub: https://xameraman.github.io/All-Mia-Guides/
-MIA GitHub: github.com/Xameraman
-MIA on Disboard with Server ID: 1402293305785581721
+All uploads must use direct download links. No Linkvertise, no Urlspay, no Sub2Unlock wrappers. Every upload must credit the original creator. Images are mandatory.
 
-MIA has partnerships with yFree (https://discord.gg/3grtzmUapH) and The Titans Club (https://discord.gg/9xK7emRcNM).
+NOVA GUIDE WEBSITES
+
+NOVA has 12 guide sites all hosted on GitHub Pages. The guides hub is at https://xameraman.github.io/all-nova-guides/. Individual guides cover:
+- Java & Bedrock Import Guide: https://xameraman.github.io/guide-for-java-and-bedrock/
+- MCPEDL Guide: https://xameraman.github.io/guide-for-mcpedl/
+- MediaFire Guide: https://xameraman.github.io/guide-for-mediafire/
+- Mirror Guide: https://xameraman.github.io/guide-for-mirror.to/
+- CurseForge Guide: https://xameraman.github.io/guide-for-curseforge/
+- Modrinth Guide: https://xameraman.github.io/guide-for-modrinth/
+- MEGA Guide: https://xameraman.github.io/guide-for-meganz/
+- Linkvertise Guide: https://xameraman.github.io/guide-for-linkvertise/
+- Proton Drive Guide: https://xameraman.github.io/guide-for-ProtonDrive/
+- Sub2Unlock Guide: https://xameraman.github.io/Guide-for-Sub2unlock/
+- Urlspay Guide: https://xameraman.github.io/guide-for-urlspay/
+- All Guides: https://xameraman.github.io/all-nova-guides/
+
+The NOVA Discord server includes **ARIA**, the official AI helper bot, to answer your questions about commands, categories, credit rules, and the upload system.
+
+NOVA SOCIAL AND COMMUNITY LINKS
+
+NOVA Discord: https://discord.gg/ThgxvPtUjZ
+NOVA Library: https://nova-library.pages.dev/
+NOVA YouTube: youtube.com/@xameraman5022
+NOVA Guides Hub: https://xameraman.github.io/all-nova-guides/
+NOVA GitHub: github.com/Xameraman
+NOVA on Disboard with Server ID: 1508503007736893581
 
 COMMON PROBLEMS
 
-PROBLEM: I cannot access channels in MIA Discord.
+PROBLEM: I cannot access channels in NOVA Discord.
 SOLUTION: Get the Key Access verification role. Check the rules channel for instructions.
 
 PROBLEM: A download link is broken or expired.
-SOLUTION: Ask in the MIA Discord channel where it was posted for an updated link.
+SOLUTION: Report it using the **/nova-report** command in the server, or ask in the channel where it was posted.
 
 PROBLEM: I do not know how to install a downloaded file.
-SOLUTION: Visit the MIA Java and Bedrock Import Guide at https://xameraman.github.io/mia-install-guide-java-n-bedrock/
+SOLUTION: Visit the NOVA Java & Bedrock Import Guide at https://xameraman.github.io/guide-for-java-and-bedrock/
 
-PROBLEM: I see a Linkvertise or ad link in MIA.
-SOLUTION: MIA discourages ad links. Ask the uploader for a direct link. Use the MIA Linkvertise guide if you must use that link.
+PROBLEM: I see a Linkvertise or ad link in NOVA.
+SOLUTION: NOVA never allows ad links. Report the message immediately with /nova-report or notify a staff member.
 
 PROBLEM: I want to upload but do not know the commands.
-SOLUTION: Packmakers use /upload. Sharers use /announce-items. Check the server instructions channel.
+SOLUTION: Packmakers use **/share-with-nova**. Sharers use **/nova-share**. Experienced sharers use **/nova-feature**. Check the server instructions channel for detailed help, or ask ARIA.
 
-PROBLEM: The MIA AI assistant is not responding.
-SOLUTION: Wait a few seconds and try again. If it still fails, join the MIA Discord and ask there.
+PROBLEM: The ARIA bot is not responding.
+SOLUTION: Wait a few seconds and try again. If it still fails, ask in a support channel or contact a staff member.
 
 IMPORTANT WARNINGS
 
-· MIA only accepts direct download links. No ad links or shorteners.
-· Always credit the original creator when sharing in MIA.
-· Never share NSFW, spam or paid content in MIA.
+· NOVA only accepts direct download links. No ad links or shorteners are ever allowed.
+· Always credit the original creator when sharing in NOVA.
+· Never share NSFW, spam, or paid content without explicit creator permission.
 · Images are mandatory for all submissions.
-· MIA never asks for payment. It is completely free.
-· Only download from trusted file hosts linked in MIA channels.
+· NOVA never asks for payment. It is completely free.
+· Only download from trusted file hosts linked in NOVA channels.
 · Avoid .exe .apk and .msi files claiming to be Minecraft content.
+· filego.io is never used for packmaker archives.
 
-MIA VALUES
+NOVA VALUES
 
-MIA focuses on fast downloads, direct links, organized categories, proper creator credits, and community safety. The mission is removing friction from downloading Bedrock content. No clutter, no confusion.
+NOVA is built on four words: **Verified. Organized. Creator Respecting.** Every decision — from channel structure to upload rules — reflects these values. NOVA exists to provide fast, verified, direct downloads with proper creator credit and organized content sharing. No clutter. No confusion. No ads.
 
-MIA DISCORD
+NOVA DISCORD
 
-If you need more help join the MIA Discord server.
-Invite: https://discord.gg/tS5WmGEyxN
+If you need more help join the NOVA Discord server.
+Invite: https://discord.gg/ThgxvPtUjZ
 Owner: Xameraman5022
-MIA only shares direct download links. No ad links or shorteners.
-Always credit the original creator when sharing in MIA.
+NOVA only shares direct download links. No ad links or shorteners.
+Always credit the original creator when sharing in NOVA.
