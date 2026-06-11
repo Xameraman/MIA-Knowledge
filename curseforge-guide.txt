@@ -80,14 +80,14 @@ A: Yes, you can place the .jar files in any Minecraft instance’s mods folder.
 Q: How do creators earn money on CurseForge?
 A: Through the Author Rewards Program. Downloads generate points that become monetary rewards.
 
-MIA NOTES
+NOVA NOTES
 
-MIA encourages the use of direct CurseForge links when sharing mods. CurseForge is allowed as a file host. When uploading to MIA, use a direct curseforge.com link to the project or file page. Do not wrap CurseForge links with Linkvertise or other ad services. Always credit the original creator in MIA uploads.
+NOVA encourages the use of direct CurseForge links when sharing mods. CurseForge is allowed as a file host. When uploading to NOVA, use a direct curseforge.com link to the project or file page. Do not wrap CurseForge links with Linkvertise or other ad services. Always credit the original creator in NOVA uploads.
 
-MIA DISCORD
+NOVA DISCORD
 
-If you need more help join the MIA Discord server.
-Invite: https://discord.gg/tS5WmGEyxN
+If you need more help join the NOVA Discord server.
+Invite: https://discord.gg/ThgxvPtUjZ
 Owner: Xameraman5022
-MIA only shares direct download links. No ad links or shorteners.
-Always credit the original creator when sharing in MIA.
+NOVA only shares direct download links. No ad links or shorteners.
+Always credit the original creator when sharing in NOVA.
