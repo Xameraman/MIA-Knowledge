@@ -30,10 +30,10 @@ PROBLEM: I imported the addon but it does not appear in my world.
 SOLUTION: For .mcaddon files, activate both the Behaviour Pack and the Resource Pack in your world settings. If the addon needs Experimental Gameplay, enable the required toggles in World Settings. Also check that the addon is compatible with your Minecraft version.
 
 PROBLEM: The download link is broken or expired.
-SOLUTION: Contact the creator using their social links on the MCPEDL page. Ask in the MIA Discord server for an updated link. Report the broken link in the MCPEDL comments section so the creator knows.
+SOLUTION: Contact the creator using their social links on the MCPEDL page. Ask in the NOVA Discord server for an updated link. Report the broken link in the MCPEDL comments section so the creator knows.
 
 PROBLEM: I see a Linkvertise page after clicking the MCPEDL download link.
-SOLUTION: This is the creator's choice to monetize their content. Complete the free tasks on the Linkvertise page to unlock the real download. Use the MIA Linkvertise guide for step by step help completing those tasks.
+SOLUTION: This is the creator's choice to monetize their content. Complete the free tasks on the Linkvertise page to unlock the real download. Use the NOVA Linkvertise guide for step by step help completing those tasks.
 
 IMPORTANT WARNINGS
 
@@ -41,17 +41,17 @@ IMPORTANT WARNINGS
 · The real download link is always small green text inside the content area of the page.
 · Do not download .jar files from MCPEDL. They are for Java Edition and will not work on Bedrock.
 · MCPEDL files usually go to MediaFire, Google Drive, or Dropbox. Expect to see an external host.
-· Some MCPEDL creators use Linkvertise or Sub2Unlock. The MIA guides explain how to handle those.
+· Some MCPEDL creators use Linkvertise or Sub2Unlock. The NOVA guides explain how to handle those.
 · Console users cannot directly install MCPEDL files. Download on a phone or PC first, then sync via a Microsoft account.
 
-MIA NOTES
+NOVA NOTES
 
-MIA shares direct MCPEDL links in Discord channels whenever possible. MIA bypasses the search step by linking directly to the MCPEDL content page or the file download. MIA manually verifies files before sharing so you do not have to worry about fake download buttons. MIA respects MCPEDL creators and always provides credit when sharing their content. When uploading to MIA, use a direct MCPEDL link to the content page. Do not wrap MCPEDL links with ad services.
+NOVA shares direct MCPEDL links in Discord channels whenever possible. NOVA bypasses the search step by linking directly to the MCPEDL content page or the file download. NOVA manually verifies files before sharing so you do not have to worry about fake download buttons. NOVA respects MCPEDL creators and always provides credit when sharing their content. When uploading to NOVA, use a direct MCPEDL link to the content page. Do not wrap MCPEDL links with ad services.
 
-MIA DISCORD
+NOVA DISCORD
 
-If you need more help join the MIA Discord server.
-Invite link: https://discord.gg/tS5WmGEyxN
+If you need more help join the NOVA Discord server.
+Invite: https://discord.gg/ThgxvPtUjZ
 Owner: Xameraman5022
-MIA focuses on direct downloads with no ad links.
-Always credit the original creator when sharing in MIA.
+NOVA focuses on direct downloads with no ad links.
+Always credit the original creator when sharing in NOVA.
