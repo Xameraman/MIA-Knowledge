@@ -44,14 +44,14 @@ IMPORTANT WARNINGS
 · Modrinth has clean ads under the Acceptable Ads Standard. No fake download buttons exist.
 · The Modrinth App is free and open source. Never pay for a mod installer claiming to be Modrinth.
 
-MIA NOTES
+NOVA NOTES
 
-MIA encourages using Modrinth for Java Edition mods because of its clean interface and strong safety record. MIA shares direct Modrinth links to project pages. When uploading to MIA, use a direct modrinth.com link. Modrinth content is for Java Edition only so keep it in Java specific channels in MIA. Always credit the original creator when sharing Modrinth content in MIA.
+NOVA encourages using Modrinth for Java Edition mods because of its clean interface and strong safety record. NOVA shares direct Modrinth links to project pages. When uploading to NOVA, use a direct modrinth.com link. Modrinth content is for Java Edition only so keep it in Java specific channels in NOVA. Always credit the original creator when sharing Modrinth content in NOVA.
 
-MIA DISCORD
+NOVA DISCORD
 
-If you need more help join the MIA Discord server.
-Invite link: https://discord.gg/tS5WmGEyxN
+If you need more help join the NOVA Discord server.
+Invite: https://discord.gg/ThgxvPtUjZ
 Owner: Xameraman5022
-MIA focuses on direct downloads with no ad links.
-Always credit the original creator when sharing in MIA.
+NOVA focuses on direct downloads with no ad links.
+Always credit the original creator when sharing in NOVA.
