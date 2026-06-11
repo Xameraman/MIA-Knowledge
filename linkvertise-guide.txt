@@ -44,7 +44,7 @@ PROBLEM: Tasks do not register as completed.
 SOLUTION: Wait longer on each task page before returning. Make sure you clicked the required button on the task page. Try opening the task and waiting 5 seconds before coming back.
 
 PROBLEM: A pop up asks me to install software.
-SOLUTION: Never install anything from Linkvertise task pages. Look for a Skip button. Close the pop up entirely. No MIA file ever requires installing extra software.
+SOLUTION: Never install anything from Linkvertise task pages. Look for a Skip button. Close the pop up entirely. No NOVA file ever requires installing extra software.
 
 PROBLEM: The download button on the final host page is hard to find.
 SOLUTION: On MediaFire look for the large blue Download button not ads. On Google Drive click the download icon in the top right corner. On MEGA click the Download button below the file name.
@@ -79,14 +79,14 @@ A: Usually 1 to 4 tasks depending on the creator settings and your location.
 Q: What if my file is .mcpack or .mcaddon?
 A: Tap the file and Minecraft will auto import it. You are done after reaching the final download.
 
-MIA NOTES
+NOVA NOTES
 
-MIA prefers direct download links without Linkvertise wrappers. When uploading to MIA, use the direct file host link, not a Linkvertise link. MIA provides this Linkvertise guide for users who encounter Linkvertise links shared by creators outside MIA. If you find a Linkvertise link in MIA channels, ask the uploader for a direct alternative. MIA links must be direct with no ad walls.
+NOVA requires direct download links without Linkvertise wrappers. When uploading to NOVA, use the direct file host link, not a Linkvertise link. NOVA provides this Linkvertise guide for users who encounter Linkvertise links shared by creators outside NOVA. If you find a Linkvertise link in NOVA channels, report it immediately using /nova-report. NOVA links must be direct with no ad walls.
 
-MIA DISCORD
+NOVA DISCORD
 
-If you need more help join the MIA Discord server.
-Invite link: https://discord.gg/tS5WmGEyxN
+If you need more help join the NOVA Discord server.
+Invite: https://discord.gg/ThgxvPtUjZ
 Owner: Xameraman5022
-MIA focuses on direct downloads with no ad links.
-Always credit the original creator when sharing in MIA.
+NOVA focuses on direct downloads with no ad links.
+Always credit the original creator when sharing in NOVA.
